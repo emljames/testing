@@ -1,3 +1,3 @@
 ## test script
 
-print('Hello, Worldz!')
+print('Hello, World!')
